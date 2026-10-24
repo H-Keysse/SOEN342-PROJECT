@@ -1,0 +1,15 @@
+## Team Member Contributions
+
+**Nadir Taleb*
+- Created the UML use-case diagram.
+- Completed the fully dressed use case for UC1 (Book Appointment).
+- Created the success and failure System Sequence Diagrams (SSDs) for all critical use cases.
+- Completed the system operations and operation contracts for UC3 (Reschedule or Cancel Appointment) and UC5 (Request Referral).
+
+**Hanad-Keysse Hassan Mohamed**
+- Created the UML domain model, including classes, attributes, relationships, and multiplicities.
+- Completed the fully dressed use case for UC2 (Patient Consultation).
+
+**Pascal:**
+- Completed the fully dressed use case for UC3 (Reschedule or Cancel Appointment).
+- Completed the system operations and operation contracts for UC1 (Book Appointment), UC2 (Patient Consultation), and UC4 (Payment Process).
