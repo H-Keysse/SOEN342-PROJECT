@@ -1,7 +1,7 @@
 ## Team Member Contributions
 
 **Nadir Taleb*
-- Created the UML use-case diagram.
+- Created the UML use case diagram.
 - Completed the fully dressed use case for UC1 (Book Appointment).
 - Created the success and failure System Sequence Diagrams (SSDs) for all critical use cases.
 - Completed the system operations and operation contracts for UC3 (Reschedule or Cancel Appointment) and UC5 (Request Referral).
